@@ -7,9 +7,20 @@ output: html_document
 
 #### Question
 
+Effekten av blokkperiodisering på prestasjonsvariabler
+hos utholdenhetsutøvere. Vanskelig å sammenligne forskjellig treningsmetoder
+hos forskjellige typer utholdenhetsutøvere. intervensjon over lengre tid gjør
+studiene mer kompliserte med tanke på individuell treningsrespons, mens kortere
+studier gir for lite grunnlag til å kunne benytte seg av funnene for generelt
+bruk
+
 ## Study 1
 
 #### Question
+
+Om BLOCK ville få en høyere relativ økning i VO2maks
+og bedre prestasjon på 600m tempo, enn det EVEN ville, selv om BLOCK får mindre
+mengde og lavere hjertefrekvens under øktene, samt høyere opplevd anstrengelse og
 
 #### Alternatives
 
