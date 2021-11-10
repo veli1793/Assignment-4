@@ -5,7 +5,7 @@ date: "10 11 2021"
 output: html_document
 ---
 
-#### Question
+### Question
 
 Effekten av blokkperiodisering på prestasjonsvariabler
 hos utholdenhetsutøvere. Vanskelig å sammenligne forskjellig treningsmetoder
@@ -30,7 +30,7 @@ mengde og lavere hjertefrekvens under øktene, samt høyere opplevd anstrengelse
 
 #### Results
 
-#### Inference
+#### Inferences
 
 ## Study 2
 
@@ -44,7 +44,7 @@ mengde og lavere hjertefrekvens under øktene, samt høyere opplevd anstrengelse
 
 #### Results
 
-#### Inference
+#### Inferences
 
 ## Study 3
 
@@ -58,7 +58,7 @@ mengde og lavere hjertefrekvens under øktene, samt høyere opplevd anstrengelse
 
 #### Results
 
-#### Inference
+#### Inferences
 
 ## Study 4
 
@@ -72,7 +72,7 @@ mengde og lavere hjertefrekvens under øktene, samt høyere opplevd anstrengelse
 
 #### Results
 
-#### Inference
+#### Inferences
 
 ## Study 5
 
@@ -86,4 +86,6 @@ mengde og lavere hjertefrekvens under øktene, samt høyere opplevd anstrengelse
 
 #### Results
 
-#### Inference
+#### Inferences
+
+### Inferences
