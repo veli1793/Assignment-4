@@ -1,0 +1,78 @@
+---
+title: "Arbeidskrav 4"
+author: "Vemund Lien"
+date: "10 11 2021"
+output: html_document
+---
+
+#### Question
+
+## Study 1
+
+#### Question
+
+#### Alternatives
+
+#### Logic
+
+#### Methods
+
+#### Results
+
+#### Inference
+
+## Study 2
+
+#### Question
+
+#### Alternatives
+
+#### Logic
+
+#### Methods
+
+#### Results
+
+#### Inference
+
+## Study 3
+
+#### Question
+
+#### Alternatives
+
+#### Logic
+
+#### Methods
+
+#### Results
+
+#### Inference
+
+## Study 4
+
+#### Question
+
+#### Alternatives
+
+#### Logic
+
+#### Methods
+
+#### Results
+
+#### Inference
+
+## Study 5
+
+#### Question
+
+#### Alternatives
+
+#### Logic
+
+#### Methods
+
+#### Results
+
+#### Inference
