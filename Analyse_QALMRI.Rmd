@@ -18,15 +18,33 @@ bruk
 
 #### Question
 
-Om BLOCK ville få en høyere relativ økning i VO2maks
-og bedre prestasjon på 600m tempo, enn det EVEN ville, selv om BLOCK får mindre
-mengde og lavere hjertefrekvens under øktene, samt høyere opplevd anstrengelse og
+Det forfatteren lurte på var om blokkperiodisering-metoden ville forbedre prestasjonsvariabler, og om en slik intens treningsmetode kunne fremkalle overbelastningssymptomer både fysisk og psykisk, som på sikt kunne føre til overtreningssyndrom.
 
 #### Alternatives
 
+Forfatteren hadde en hypotese om at BLOCK ville få en høyere relativ økning i VO2maks
+og bedre prestasjon på 600m tempo, enn det EVEN ville, selv om BLOCK får mindre
+mengde og lavere hjertefrekvens under øktene. I tillegg forventet de høyere opplevd anstrengelse og dårligere opplevd restitusjon i BLOCK-gruppen.
+
 #### Logic
 
+Blokkperiodisering tar utgangspunkt i "overload" prinsippet. Hvor man skal få mye mengder av en bestemt type treningsøkt på kortere tid. I dette tilfellet undersøker de effekten av ni "HIT"økter som konsentreres i midten av en tre ukers periode, mot ni "HIT"økter jevnt fordelt på på de tre ukene. Tidligere undersøkelser støtter hypotesen om at blokkperiodisering kan øke prestasjonsvariabler i langrenn og sykkel (Rønnestad, 2014), mens andre viser symptomer på fysisk overbelastning og endret stemningsleie. (Halson et al. 2002, Jürimäe et al. 2004). Med disse tidligere funnene ønsket de å undersøke mer om hvordan "HIT" økter konsentrert på kort tid ville påvirke deltakerne, både på prestasjonsvariabler og belastning.
+
 #### Methods
+
+6.  Describe the study design. Use Hulley, (2013), Chapters 7-13^[23](https://dhammarstrom.github.io/quant-methods/assignment4.html#fn23)^ in your analysis.
+
+7.  Describe the sample and if the study defines the population.
+
+8.  Describe the method of recruiting participants to the study. Did the authors justify their sample size (i.e. did they do a power calculation)?
+
+9.  Describe how the study was conducted (what tests was performed when etc.)
+
+10. Describe the variables in the study, what variables relate to the question/hypothesis?
+
+11. What methods did the authors use to make claims (what statistical tests were used)
+
+Det ble brukt et krysningsstudie (cross-over design) i dette prosjektet. Det vil si at utvalget vi plukker fra populasjonen først blir delt opp tilfeldig i to grupper hvor begge skal gjennomføre begge en eksperimentell intervensjon og en kontroll intervensjon. Begge gruppene starter med pre-test, så starter den ene gruppen med eksperimentell intervensjon og den andre med kontroll. Etter at første intervensjon for begge gruppene er ferdig skal gruppene gjennom samme test som på pre-test (mid-test). Deretter blir det en liten pause for at gruppene skal komme ned igjen på "base-line", før de starter på neste intervensjon som er den intervensjonen de ikke har hatt enda (eksperimentell eller kontroll). Etter den intervensjonen er det da post-test som er identisk som på pre- og mid-test.
 
 #### Results
 
