@@ -7,14 +7,23 @@ output: html_document
 
 ### Question
 
-Effekten av blokkperiodisering på prestasjonsvariabler
-hos utholdenhetsutøvere. Vanskelig å sammenligne forskjellig treningsmetoder
-hos forskjellige typer utholdenhetsutøvere. intervensjon over lengre tid gjør
-studiene mer kompliserte med tanke på individuell treningsrespons, mens kortere
-studier gir for lite grunnlag til å kunne benytte seg av funnene for generelt
-bruk
+Effekten av blokkperiodisering på prestasjonsvariabler hos utholdenhetsutøvere. Vanskelig å sammenligne forskjellig treningsmetoder hos forskjellige typer utholdenhetsutøvere. intervensjon over lengre tid gjør studiene mer kompliserte med tanke på individuell treningsrespons, mens kortere studier gir for lite grunnlag til å kunne benytte seg av funnene for generelt bruk
 
-## Study 1
+## Study 1: Ronnestad et al. (2014)
+
+#### Question
+
+#### Alternatives
+
+#### Logic
+
+#### Methods
+
+#### Results
+
+#### Inferences
+
+## Study 2: McGawley et al. (2017)
 
 #### Question
 
@@ -22,9 +31,7 @@ Det forfatteren lurte på var om blokkperiodisering-metoden ville forbedre prest
 
 #### Alternatives
 
-Forfatteren hadde en hypotese om at BLOCK ville få en høyere relativ økning i VO2maks
-og bedre prestasjon på 600m tempo, enn det EVEN ville, selv om BLOCK får mindre
-mengde og lavere hjertefrekvens under øktene. I tillegg forventet de høyere opplevd anstrengelse og dårligere opplevd restitusjon i BLOCK-gruppen.
+Forfatteren hadde en hypotese om at BLOCK ville få en høyere relativ økning i VO2maks og bedre prestasjon på 600m tempo, enn det EVEN ville, selv om BLOCK får mindre distanse og lavere hjertefrekvens under øktene. I tillegg forventet de høyere opplevd anstrengelse og dårligere opplevd restitusjon i BLOCK-gruppen.
 
 #### Logic
 
@@ -46,7 +53,7 @@ Blokkperiodisering tar utgangspunkt i "overload" prinsippet. Hvor man skal få m
 
 Det ble brukt et krysningsstudie (cross-over design) i dette prosjektet. Det vil si at utvalget vi plukker fra populasjonen først blir delt opp tilfeldig i to grupper hvor begge skal gjennomføre begge en eksperimentell intervensjon og en kontroll intervensjon. Begge gruppene starter med pre-test, så starter den ene gruppen med eksperimentell intervensjon og den andre med kontroll. Etter at første intervensjon for begge gruppene er ferdig skal gruppene gjennom samme test som på pre-test (mid-test). Deretter blir det en liten pause for at gruppene skal komme ned igjen på "base-line", før de starter på neste intervensjon som er den intervensjonen de ikke har hatt enda (eksperimentell eller kontroll). Etter den intervensjonen er det da post-test som er identisk som på pre- og mid-test.
 
-20 veltrente junior langrennsutøvere ble rekruttert til denne studien gjennom to svenske toppidrett skiskoler. Deltakerne bestod av 10 menn og 10 kvinner med minst seks års konkurranseerfaring i langrenn, som konkurrerte på nasjonalt nivå. Gjennomsnittlig treningsvolum lå på rundt 500 - 750 timer per år. 6 menn og 7 kvinner fullførte hele studien. Det at utvalget er junior-utøvere på nasjonalt nivå i en utholdenhetsidrett gjør at utvalget representerer populasjonen godt, i og med at det er utholdenhetsutøverere som er avhengig av å forbedre kondisjonsvariabler som VO2maks. \
+20 veltrente junior langrennsutøvere ble rekruttert til denne studien gjennom to svenske toppidrett skiskoler. Deltakerne bestod av 10 menn og 10 kvinner med minst seks års konkurranseerfaring i langrenn, som konkurrerte på nasjonalt nivå. Gjennomsnittlig treningsvolum lå på rundt 500 - 750 timer per år. 6 menn og 7 kvinner fullførte hele studien. Det at utvalget er junior-utøvere på nasjonalt nivå i en utholdenhetsidrett gjør at utvalget representerer populasjonen godt, i og med at det er utholdenhetsutøverere som er avhengig av å forbedre kondisjonsvariabler som VO2maks.\
 Finner ikke ut om forfatterne kalkulerte hvor mange deltakere de trengte for å få god nok statistisk styrke, men 20 deltakere i et krysningsstudie skal være mer enn nok, i og med at alle deltakerne gjennomfører både eksperimentell og kontroll. (Kilde?)
 
 På testdagene møtte deltakerne opp på labratoriet uthvilt hvor de først måtte svare på et RESTQ-Sport spørreskjema, og gjennomføre spyttprøver. Etter det skulle de starte på de fysiologiske testene som inneholdt en trinnvis submaksimal test for å finne laktatterskel, etterfulgt av en trinnvis test til utmattelse. (VO2maks test). Deretter var det en times pause før 600 meter TT (time trial). Dette var en ny test som ingen av deltakterne var kjent med så det var først en "bli kjent" test før den virkelige testen startet to timer senere. Muskelbiopsier ble tatt av låret vastus lateralis tre dager før testdagen i uthvilt tilstand.\
@@ -58,21 +65,12 @@ Forfatterne brukte statistikkprogrammet SPSS, Version 22. Der kalkulerte de gjen
 
 #### Results
 
-#### Inferences
-
-## Study 2
-
-#### Question
-
-#### Alternatives
-
-#### Logic
-
-#### Methods
-
-#### Results
+Det ble ingen signifikante resultater i prestasjonsvariabler mellom intervensjonene og fra pre- til post-test i verken BLOCK eller EVEN. Det ble derimot signifikant tid fra pre- til post-test på 600m TT, testosteronkonsentrasjon i hvile, testosteron:cortisol ratio, gjennomsnittlig muskelfiber område, maksimal enzym aktivitet HAD og PFK, og i protein innhold PGC-1⍺.. Opplevd restitusjon (pREC) var signifikant forbedret i EVEN i forhold til BLOCK hos alle deltakere. RESTQ-Sport var signifikant lavere i BLOCK etter uke 2 enn i EVEN, men ikke gjennom alle 3 ukene. Kvinnene hadde signifikant lavere restitusjonsstress tilstand enn herrene etter uke 2 i BLOCK.
 
 #### Inferences
+
+Basert på funnene om at det ikke var signifikant forskjell mellom BLOCK og EVEN, men heller signifikante funn uavhengig av intervensjon, så vil ikke denne studien støtte funn som viser at blokkperiodisering er en mye bedre treningsmetode for prestasjonsutvikling enn jevnt fordelt treningsmetode.\
+Mulige grunner til dette er at denne studien ble gjennomført etter at skisesongen var ferdig, og ulempen med det er at langrennsutøvere kjører oftere HIT-økter mot slutten av sesongen enn i starten av sesongen. Forfatterne til denne studien mente at det kunne redusere effektiviteten av HIT-øktene i BLOCK, og at det kan være årsaken til at de ikke fant noe signifikant forskjell mellom BLOCK og EVEN. Det at Ronnestad et al ( 2014a,b, 2016) fant en forskjell kan være på grunn av at de gjennomførte studien før sesongen startet da langrennsløpere fokuserer mer på LIT i den perioden. En annen årsak forfatterne nevner er at de selv hadde satt alle HIT-øktene i uke 2 av BLOCK og ingen HIT i uke 3, der Ronnestad et al. (2014a,b, 2016) hadde minst 1 HIT som vedlikeholdsøkt hver uke utenom 5 HIT uka. Denne årsaken kan stemme med at det ble rapportert følelse av slapphet under uke 3 i BLOCK, som kun inneholdt LIT, noe som ikke var tilfelle i EVEN.
 
 ## Study 3
 
