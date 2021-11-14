@@ -9,13 +9,19 @@ output: html_document
 
 Effekten av blokkperiodisering på prestasjonsvariabler hos utholdenhetsutøvere. Vanskelig å sammenligne forskjellig treningsmetoder hos forskjellige typer utholdenhetsutøvere. intervensjon over lengre tid gjør studiene mer kompliserte med tanke på individuell treningsrespons, mens kortere studier gir for lite grunnlag til å kunne benytte seg av funnene for generelt bruk
 
-## Study 1: Ronnestad et al. (2014)
+## Study 1: Ronnestad et al. (2016)
 
 #### Question
 
+De ville undersøke om blokkperiodisering ville gi bedre effekt enn tradisjonell fordeling av høyintensitet- og lavintensitet trening hos langrennsutøvere på nasjonalt nivå.
+
 #### Alternatives
 
+Spørsmålet er fremstilt som en hypotese.
+
 #### Logic
+
+Langrennsutøvere baserer seg mest på polarisert trening, hvor mesteparten av øktene er HIT eller LIT økter. Tidligere studier viser ikke noe forbedring i prestasjonsvariabler som VO2maks gjennom treningsåret, og at det kan skyldes jevnlig bruk av HIT og LIT gjennom hele treningsåret (Losnegard et al. 2013). Det har blitt anslått at hvis hvis utøvere når et viss nivå, så skjer det ikke noe videre forbedring i VO2maks (Lucía et al., 2000). Ronnestad et al. (2014a,b) fant ut at en annen fordeling i HIT og LIT uten å ofre noe av mengden av treningen kan gi forbedret prestasjon, testet hos syklister. Dette kaller de blokkperiodisering, og det baserer seg på spesifikke konsentrerte treningsstimuli og vedlikehold av andre treningstimuli gjennom en kort periode på 1-4 uker (Issurin, 2010). I og med at det pleier å være ganske jevn fordeling av HIT og LIT hver uke for langrennsløpere, så ønsket forfatterne å teste hvordan langrennsløpere responderer på blokkperiodisering. Forfatterne fant ut at syklister responderer bedre med blokkperiodisering enn med tradisjonell trening, noe som også kan være tilfelle med langrennsløpere. De valgte å gjennomføre prosjektet før konkurransesesongen startet, da annen forskning ikke fant noe signifikante forskjeller ved å utføre prosjektet i faser av treningsperioden hvor langrennsutøverne allerede kunne være i konkurranseform.
 
 #### Methods
 
