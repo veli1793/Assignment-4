@@ -25,6 +25,24 @@ Langrennsutøvere baserer seg mest på polarisert trening, hvor mesteparten av �
 
 #### Methods
 
+6.  Describe the study design. Use Hulley, (2013), Chapters 7-13^[23](https://dhammarstrom.github.io/quant-methods/assignment4.html#fn23)^ in your analysis.
+
+7.  Describe the sample and if the study defines the population.
+
+8.  Describe the method of recruiting participants to the study. Did the authors justify their sample size (i.e. did they do a power calculation)?
+
+9.  Describe how the study was conducted (what tests was performed when etc.)
+
+10. Describe the variables in the study, what variables relate to the question/hypothesis?
+
+11. What methods did the authors use to make claims (what statistical tests were used)
+
+I denne studien brukte de randomisering av to og to personer med matchende VO2maks, og plasserte dem tilfeldig i hver sin gruppe (BP eller TRAD). Med et lite utvalg kan man oppnå mer statistisk styrke med å randomisere på denne måten, da det blir lettere å to grupper med lik fordeling av nøkkelvariabler, som i dette tilfellet er VO2maks. 22 langrennsutøvere og skiskyttere deltok i studien, og 19 fullførte. I BP var det 7 menn og 3 kvinner, og i TRAD 7 menn og 2 kvinner. Skiskytterne ble jevnt fordelt mellom de to gruppene og trente normal trening for langrennsløpere under intervensjonen. Alle konkurrerte på nasjonalt nivå, så vil si de representerer populasjonen i og med at det er langrennsløpere på høyt nivå de vi teste hypotesen.
+
+Ser ikke at det står noe om hva de gjorde for å rekruttere deltakere, og heller ikke om de gjorde noe estimering av hvor mange deltakere de trengte for å få nok statistisk styrke.
+
+Studien bestod av to testdager (pre- og post-test), og en intervensjon mellom disse testdagene. Testdagene bestod av en trinnvis submaksimal test for å finne 4mmol laktatterskel, og etter det en trinnvis maksimal test til utmattelse for å finne VO2maks. Begge testene ble gjennomført på en rulleskimølle med samme rulleski og staver, og alle deltakerne skulle gjennomføre testene i teknikken skøyting. I intervensjonen var det to grupper, der den ene gruppen skulle gjennom en blokkperiodisering av treningen (BT), mens den andre gruppen skulle trene det vi kaller tradisjonell trening (TRAD). I BT startet deltakerne med 5 intervaller (HIT) den første uken, etterfulgt av 1 HIT i uke 2, 3 HIT i uke 3, 1 HIT i uke 4, og 1 HIT i uke 5. I TRAD skulle alle ukene bortsett fra uke 3 bestå av 2 HIT, der uke 3 fikk 3 HIT. Dermed ble det like mange HIT i både BT og TRAD. Deltakerne ble bedt om å gjennomføre minst 50% av HIT øktene i teknikken skøyting, men de kunne velge fritt om å bruke rulleski eller langrennski. Lavintensitetøktene (LIT) ble individuelt tilpasset og skulle foregå i minst 1 time i hjertefrekvens (HR) sone 1.
+
 #### Results
 
 #### Inferences
