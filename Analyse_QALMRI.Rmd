@@ -3,15 +3,16 @@ title: "Arbeidskrav 4"
 author: "Vemund Lien"
 date: "10 11 2021"
 output: html_document
+bibliography: references.bib
 ---
 
 ### Question
 
 Effekten av blokkperiodisering på prestasjonsvariabler hos utholdenhetsutøvere. Vanskelig å sammenligne forskjellig treningsmetoder hos forskjellige typer utholdenhetsutøvere. intervensjon over lengre tid gjør studiene mer kompliserte med tanke på individuell treningsrespons, mens kortere studier gir for lite grunnlag til å kunne benytte seg av funnene for generelt bruk.
 
-## Study 1: 
+## Study 1:
 
-## Effects of a Seven Day Overload-Period of High-Intensity Training on Performance and Physiology of Competitive Cyclists 
+## Effects of a Seven Day Overload-Period of High-Intensity Training on Performance and Physiology of Competitive Cyclists
 
 Clark, B et al. (2014)
 
@@ -23,11 +24,27 @@ Clark, B et al. (2014)
 
 #### Methods
 
+6.  Describe the study design. Use Hulley, (2013), Chapters 7-13^[23](https://dhammarstrom.github.io/quant-methods/assignment4.html#fn23)^ in your analysis.
+
+7.  Describe the sample and if the study defines the population.
+
+8.  Describe the method of recruiting participants to the study. Did the authors justify their sample size (i.e. did they do a power calculation)?
+
+9.  Describe how the study was conducted (what tests was performed when etc.)
+
+10. Describe the variables in the study, what variables relate to the question/hypothesis?
+
+11. What methods did the authors use to make claims (what statistical tests were used)
+
+Denne studien brukte
+
+30 mannlige konkurransesyklister deltok i denne studien. 28 av deltakerne fullførte.
+
 #### Results
 
 #### Inferences
 
-## Study 2: 
+## Study 2:
 
 ## Effects of 12 weeks of block periodization on performance and performance indices in well-trained cyclists
 
@@ -45,7 +62,7 @@ Rønnestad et al. (2014)
 
 #### Inferences
 
-## Study 3: 
+## Study 3:
 
 ## 5-week block periodization increases aerobic power in elite cross-country skiers
 
@@ -61,7 +78,7 @@ Spørsmålet er fremstilt som en hypotese, hvor de mener at blokkperiodisering (
 
 #### Logic
 
-Langrennsutøvere baserer seg mest på polarisert trening, hvor mesteparten av øktene er HIT eller LIT økter. Tidligere studier viser ikke noe forbedring i prestasjonsvariabler som VO~2max~ gjennom treningsåret, og at det kan skyldes jevnlig bruk av HIT og LIT gjennom hele treningsåret (Losnegard et al. 2013). Det har blitt anslått at hvis hvis utøvere når et viss nivå, så skjer det ikke noe videre forbedring i VO~2max~ (Lucía et al., 2000). Ronnestad et al. (2014a,b) fant ut at en annen fordeling i HIT og LIT uten å ofre noe av mengden av treningen kan gi forbedret prestasjon, testet hos syklister. Dette kaller de blokkperiodisering, og det baserer seg på spesifikke konsentrerte treningsstimuli og vedlikehold av andre treningstimuli gjennom en kort periode på 1-4 uker (Issurin, 2010). I og med at det pleier å være ganske jevn fordeling av HIT og LIT hver uke for langrennsløpere, så ønsket forfatterne å teste hvordan langrennsløpere responderer på blokkperiodisering. Forfatterne fant ut at syklister responderer bedre med blokkperiodisering enn med tradisjonell trening, noe som også kan være tilfelle med langrennsløpere. De valgte å gjennomføre prosjektet før konkurransesesongen startet, da annen forskning ikke fant noe signifikante forskjeller ved å utføre prosjektet i faser av treningsperioden hvor langrennsutøverne allerede kunne være i konkurranseform.
+Langrennsutøvere baserer seg mest på polarisert trening, hvor mesteparten av øktene er HIT eller LIT økter. Tidligere studier viser ikke noe forbedring i prestasjonsvariabler som VO~2max~ gjennom treningsåret, og at det kan skyldes jevnlig bruk av HIT og LIT gjennom hele treningsåret (Losnegard et al. 2013). Det har blitt anslått at hvis hvis utøvere når et viss nivå, så skjer det ikke noe videre forbedring i VO~2max~ (Lucía et al., 2000). Ronnestad et al. (2014a,b) fant ut at en annen fordeling i HIT og LIT uten å ofre noe av mengden av treningen kan gi forbedret prestasjon, testet hos syklister. Dette kaller de blokkperiodisering, og det baserer seg på spesifikke konsentrerte treningsstimuli og vedlikehold av andre treningstimuli gjennom en kort periode på 1-4 uker (Issurin, 2010). I og med at det pleier å være ganske jevn fordeling av HIT og LIT hver uke for langrennsløpere, så ønsket forfatterne å teste hvordan langrennsløpere responderer på blokkperiodisering. Forfatterne fant ut at syklister responderer bedre med blokkperiodisering enn med tradisjonell trening, noe som også kan være tilfelle med langrennsløpere. De valgte å gjennomføre prosjektet før konkurransesesongen startet, da annen forskning ikke fant noe signifikante forskjeller ved å utføre prosjektet i faser av treningsperioden hvor langrennsutøverne allerede kunne være i konkurranseform. @rønnestad2014b
 
 #### Methods
 
@@ -81,7 +98,7 @@ I denne studien brukte de randomisering av to og to personer med matchende VO~2m
 
 Ser ikke at det står noe om hva de gjorde for å rekruttere deltakere, og heller ikke om de gjorde noe estimering av hvor mange deltakere de trengte for å få nok statistisk styrke.
 
-Studien bestod av to testdager (pre- og post-test), og en intervensjon mellom disse testdagene. Testdagene bestod av en trinnvis submaksimal test for å finne 4mmol laktatterskel, og etter det en trinnvis maksimal test til utmattelse for å finne VO~2max~. Begge testene ble gjennomført på en rulleskimølle med samme rulleski og staver, og alle deltakerne skulle gjennomføre testene i teknikken skøyting. I intervensjonen var det to grupper, der den ene gruppen skulle gjennom en blokkperiodisering av treningen (BT), mens den andre gruppen skulle trene det vi kaller tradisjonell trening (TRAD). I BT startet deltakerne med 5 intervaller (HIT) den første uken, etterfulgt av 1 HIT i uke 2, 3 HIT i uke 3, 1 HIT i uke 4, og 1 HIT i uke 5. I TRAD skulle alle ukene bortsett fra uke 3 bestå av 2 HIT, der uke 3 fikk 3 HIT. Dermed ble det like mange HIT i både BT og TRAD. Deltakerne ble bedt om å gjennomføre minst 50% av HIT øktene i teknikken skøyting, men de kunne velge fritt om å bruke rulleski eller langrennski. Lavintensitetøktene (LIT) ble individuelt tilpasset og skulle foregå i minst 1 time i hjertefrekvens (HR) sone 1.
+Studien bestod av to testdager (pre- og post-test), og en intervensjon mellom disse testdagene. Testdagene bestod av en trinnvis submaksimal test for å finne 4mmol laktatterskel, og etter det en trinnvis maksimal test til utmattelse for å finne VO~2max~. Begge testene ble gjennomført på en rulleskimølle med samme rulleski og staver, og alle deltakerne skulle gjennomføre testene i teknikken skøyting. I intervensjonen var det to grupper, der den ene gruppen skulle gjennom en blokkperiodisering av treningen (BT), mens den andre gruppen skulle trene det vi kaller tradisjonell trening (TRAD). I BT startet deltakerne med 5 intervaller (HIT) den første uken, etterfulgt av 1 HIT i uke 2, 3 HIT i uke 3, 1 HIT i uke 4, og 1 HIT i uke 5. I TRAD skulle alle ukene bortsett fra uke 3 bestå av 2 HIT, der uke 3 fikk 3 HIT. Dermed ble det like mange HIT i både BT og TRAD. Deltakerne ble bedt om å gjennomføre minst 50% av HIT øktene i teknikken skøyting, men de kunne velge fritt om å bruke rulleski eller langrennski. HIT øktene bestod av 6 \* 5 min eller 5 \* 6 min. Lavintensitetøktene (LIT) ble individuelt tilpasset og skulle foregå i minst 1 time i hjertefrekvens (HR) sone 1.
 
 Variabler som vi kan knytte til hypotesen er 4mmol laktatterskel og VO~2max~, da en høyreforskyvning av laktatterskelen til en deltaker fra pre- til post-test vil indikere at deltakeren kan jobbe på høyere aerob belastning (effekt). En forhøyning av VO~2max~ vil gjøre deltakeren i stand til å ta opp og forbruke mer oksygen som dermed vil forbedre den aerobe effekten.
 
@@ -95,7 +112,7 @@ Det var ikke noe forskjell i de ulike variablene mellom BT og TRAD før interven
 
 I denne studien konkluderte forfatterne at blokkperiodisering av utholdenhetstrening har overlegent bedre effekt på flere av utholdenhets- og prestasjonsvariablene. De bregrunner det med at en relativ forbedring i W~max~ kan være skillet på om man når en stor sportslig prestasjon eller ikke. En relativ forbedring i 4mmol laktatterskel kan komme som en konsekvens av en forbedret VO~2max~ i løpet av intervensjonen.
 
-## Study 4: 
+## Study 4:
 
 ## **No Additional Benefits of Block- Over Evenly-Distributed High-Intensity Interval Training within a Polarized Microcycle**
 
@@ -158,8 +175,24 @@ Mulige grunner til dette er at denne studien ble gjennomført etter at skisesong
 
 #### Methods
 
+6.  Describe the study design. Use Hulley, (2013), Chapters 7-13^[23](https://dhammarstrom.github.io/quant-methods/assignment4.html#fn23)^ in your analysis.
+
+7.  Describe the sample and if the study defines the population.
+
+8.  Describe the method of recruiting participants to the study. Did the authors justify their sample size (i.e. did they do a power calculation)?
+
+9.  Describe how the study was conducted (what tests was performed when etc.)
+
+10. Describe the variables in the study, what variables relate to the question/hypothesis?
+
+11. What methods did the authors use to make claims (what statistical tests were used)
+
 #### Results
 
 #### Inferences
 
 ### Inferences
+
+## References
+
+[@rønnestad2014c]
